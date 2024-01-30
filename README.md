@@ -3,7 +3,7 @@ Simple script to enumerate subdomains using the FOFA search engine, you can save
 
 
 # Usage
-Replace the your_email@example.com and your_api_key placeholders in the script with your FOFA email and API key.
+Replace the <i>`your_email@example.com`</i> and <i>`your_api_key`</i> placeholders in the script with your FOFA email and API key.
 
 Run the script with the following command-line options:
 
